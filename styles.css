@@ -64,3 +64,8 @@ body {
   cursor: pointer;
   text-align: center;
 }
+
+.player__slider {
+  width:10px;
+  height:30px;
+}
